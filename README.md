@@ -125,5 +125,3 @@ Made with low-level love in Assembly 💻
 You can modify and extend this editor for learning and personal use.
 
 ---
-
-Let me know if you'd like a commented version of the `.asm` file too!
